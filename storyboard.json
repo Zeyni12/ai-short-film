@@ -49,12 +49,12 @@
     {
       "id": "shot_04",
       "duration_sec": 10,
-      "image_prompt": "Dynamic medium shot at the edge of the lake, the young Ethiopian man kneeling by the water, dipping the dirty sieve into the clear lake water and lifting it up as water streams rapidly through the holes, sparkling water droplets in golden sunlight, cinematic 35mm.",
-      "motion_prompt": "The young man lifts the sieve from the lake as crystal water pours and splashes straight through the mesh back into the lake.",
-      "motion_mode": "wan22",
-      "narration": "ደጋግሞ ጠለቀ፤ ነገር ግን ውኃው በቀዳዳዎቹ እየሾለከ ወደ ሐይቁ ይመለስ ነበር።",
-      "subtitle_en": "He dipped it again and again, yet every drop slipped right through the holes back into the lake.",
-      "seed": 1004
+      "seed": 1004,
+      "narration": "ወደ ሐይቁ ሄዶ በወንፊቱ ውሃ ለመቅዳት ሞከረ፤ ነገር ግን ውሃው ሁሉ በቀዳዳዎቹ ውስጥ ወዲያው ፈሰሰ።",
+      "subtitle_en": "He walked to the lake and tried to scoop water with the sieve, yet every drop poured right through.",
+      "image_prompt": "Wide-medium shot at the lake shore: the young Ethiopian man in an earthy olive-brown linen tunic kneels by clear lake water, dipping the circular woven reed sieve into the water while streams of water pour straight down through the sieve holes back into the lake.",
+      "motion_mode": "ken_burns_in",
+      "motion_prompt": "The young man dips the woven sieve into the lake water as clear water streams downward through the sieve mesh, gentle lake ripples, natural motion."
     },
     {
       "id": "shot_05",
