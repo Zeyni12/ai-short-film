@@ -195,6 +195,7 @@ Each stage can be executed independently, making the system easier to debug, tes
 ```text
 ai-short-film/
 │
+├── run_pipeline.py
 ├── storyboard.json
 ├── requirements.txt
 ├── .env
@@ -215,7 +216,10 @@ ai-short-film/
 │
 ├── outputs/
 │   ├── radio_cut.mp4
+│   ├── audio/
+│   ├── keyframes/
 │   ├── wan22/
+│   ├── shots/
 │   ├── music/
 │   ├── final_16x9.mp4
 │   └── final_9x16.mp4
