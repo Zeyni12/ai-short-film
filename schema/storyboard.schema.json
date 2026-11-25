@@ -1,0 +1,100 @@
+{
+  "meta": {
+    "title": "The Clean Sieve (የጠራው ወንፊት)",
+    "language": "am-ET",
+    "voice_name": "Kore",
+    "end_card_text": "Created with AI | Gemini TTS • Cloudflare Workers AI • Wan 2.2 • ACE-Step"
+  },
+  "character_sheet": {
+    "prompt": "Character turnaround sheet on neutral warm parchment background, three angles of an Ethiopian elder wise man in his late 60s with silver beard, calm expressive eyes, wearing a white handwoven cotton gabi shawl, alongside a young Ethiopian man in his late 20s wearing a simple earthy linen tunic. Warm natural sunlight, realistic cinematic film grain, consistent facial structure, 35mm lens.",
+    "seed": 4201
+  },
+  "music": {
+    "selected_candidate": "candidate_01",
+    "prompt": "Contemplative Ethiopian acoustic instrumental score, gentle krar harp and soft washint flute over warm ambient strings, slow peaceful tempo, emotional philosophical reflection, no vocals, 72 BPM",
+    "bpm": 72,
+    "duration_sec": 76
+  },
+  "shots": [
+    {
+      "id": "shot_01",
+      "duration_sec": 9,
+      "image_prompt": "Cinematic wide shot at dawn beside a tranquil highland lake in Ethiopia, golden mist rising over calm water, a young Ethiopian man in a simple earthy linen tunic walking up a stone path toward a shaded courtyard, 35mm film photography, warm natural light, photorealistic.",
+      "motion_prompt": "Slow gentle forward camera push as morning mist drifts slowly across the lake and the young man walks toward the courtyard.",
+      "motion_mode": "ken_burns_in",
+      "narration": "አንድ ወጣት የሕይወትን ጥልቅ ትርጉም ለመማር ወደ አንድ ጥበበኛ አዛውንት ሄደ።",
+      "subtitle_en": "A young man went to a wise elder, hoping to learn the deeper meaning of life.",
+      "seed": 1001
+    },
+    {
+      "id": "shot_02",
+      "duration_sec": 9,
+      "image_prompt": "Medium two-shot in a sunlit stone courtyard, an Ethiopian elder wise man with a silver beard and white cotton gabi handing an old, dusty, soot-stained woven sieve to the young man in an earthy linen tunic, warm golden morning light, shallow depth of field, cinematic 35mm.",
+      "motion_prompt": "Subtle natural movement as the elder extends the dusty sieve toward the young man, gentle breeze moving their cotton garments.",
+      "motion_mode": "wan22",
+      "narration": "ጥበበኛውም አንድ የቆሸሸ ወንፊት ሰጡትና፤ «ሂድና ከሐይቁ ውኃ ቅዳልኝ» አሉት።",
+      "subtitle_en": "The wise man handed him a dirty sieve and said, 'Go to the lake and bring me water.'",
+      "seed": 1002
+    },
+    {
+      "id": "shot_03",
+      "duration_sec": 9,
+      "image_prompt": "Close-up of the young man's hands holding the soot-stained, dusty mesh sieve against the shimmering backdrop of the lake, puzzled and skeptical expression slightly out of focus behind the sieve, warm sunlight, 35mm film grain.",
+      "motion_prompt": "Slow subtle zoom in on the dirty mesh of the sieve as sunlight catches the dust particles.",
+      "motion_mode": "ken_burns_in",
+      "narration": "ወጣቱ ግራ ተጋባ፤ በወንፊት እንዴት ውኃ ይያዛል? ቢሆንም ቃላቸውን አክብሮ ወደ ሐይቁ ወረደ።",
+      "subtitle_en": "The young man was puzzled—how can a sieve hold water? Yet out of respect, he went to the lake.",
+      "seed": 1003
+    },
+    {
+      "id": "shot_04",
+      "duration_sec": 10,
+      "image_prompt": "Dynamic medium shot at the edge of the lake, the young Ethiopian man kneeling by the water, dipping the dirty sieve into the clear lake water and lifting it up as water streams rapidly through the holes, sparkling water droplets in golden sunlight, cinematic 35mm.",
+      "motion_prompt": "The young man lifts the sieve from the lake as crystal water pours and splashes straight through the mesh back into the lake.",
+      "motion_mode": "wan22",
+      "narration": "ደጋግሞ ጠለቀ፤ ነገር ግን ውኃው በቀዳዳዎቹ እየሾለከ ወደ ሐይቁ ይመለስ ነበር።",
+      "subtitle_en": "He dipped it again and again, yet every drop slipped right through the holes back into the lake.",
+      "seed": 1004
+    },
+    {
+      "id": "shot_05",
+      "duration_sec": 9,
+      "image_prompt": "Medium shot of the young Ethiopian man standing by the shore looking tired and frustrated, clothes damp at the hem, holding the empty sieve down at his side under late afternoon sun, reflective lake water behind him, cinematic 35mm.",
+      "motion_prompt": "Slow camera pan right across the quiet shoreline as ripples settle on the lake surface.",
+      "motion_mode": "pan_right",
+      "narration": "በመጨረሻም ደክሞት ተመለሰና፤ «አባቴ ሆይ፣ ይህ ለምን አስፈለገ? ወንፊት እኮ ውኃ አይዝም» ሲል ጠየቀ።",
+      "subtitle_en": "Exhausted, he returned and asked, 'Father, why make me do this? A sieve cannot hold water.'",
+      "seed": 1005
+    },
+    {
+      "id": "shot_06",
+      "duration_sec": 9,
+      "image_prompt": "Close-up of the Ethiopian elder wise man smiling gently with warm, knowing eyes in golden late-afternoon light, white cotton gabi draped over his shoulder, soft blurred courtyard background, 35mm portrait.",
+      "motion_prompt": "Gentle slow zoom out revealing the calm, compassionate smile of the wise elder.",
+      "motion_mode": "ken_burns_out",
+      "narration": "ጥበበኛውም በፈገግታ፤ «እስቲ አሁን በእጅህ ያለውን ወንፊት ተመልከተው» አሉት።",
+      "subtitle_en": "The wise elder smiled gently and replied, 'Look closely at the sieve in your hands now.'",
+      "seed": 1006
+    },
+    {
+      "id": "shot_07",
+      "duration_sec": 9,
+      "image_prompt": "Macro close-up of the sieve held up toward the golden sunset light, completely clean, gleaming, spotless woven mesh washed pure by the lake water, tiny glistening water droplets clinging to the clean fibers, cinematic 35mm.",
+      "motion_prompt": "Sunlight shimmers across the freshly cleaned, spotless sieve as tiny water droplets glisten on the mesh.",
+      "motion_mode": "wan22",
+      "narration": "ቆሻሻው ሁሉ ታጥቦ ወንፊቱ ፍጹም ንጹሕ ሆኗል። «አንተም ‘ለምን’ ብለህ መጠየቅ ጀምረሃል» አሉት።",
+      "subtitle_en": "All the dirt had washed away—the sieve was pure. 'And you,' he said, 'have begun to ask why.'",
+      "seed": 1007
+    },
+    {
+      "id": "shot_08",
+      "duration_sec": 10,
+      "image_prompt": "Wide cinematic silhouette shot at sunset overlooking the calm Ethiopian lake, the wise elder and the young man standing peacefully side by side watching the golden reflection on the water, serene inspiring atmosphere, 35mm film.",
+      "motion_prompt": "Slow majestic pull-back shot as golden sunset light reflects across the calm lake.",
+      "motion_mode": "ken_burns_out",
+      "narration": "የሕይወት ዋናው ሕግ ሁልጊዜ መያዝ ብቻ አይደለም፤ አንዳንዴ ሸክምን መልቀቅ፣ መጥራትና የምንሠራውን ነገር ለምን እንደምንሠራ መጠየቅ ነው።",
+      "subtitle_en": "Life's true rule is not always to hold on—sometimes it is to let go, be cleansed of baggage, and ask why we do what we do.",
+      "seed": 1008
+    }
+  ]
+}
